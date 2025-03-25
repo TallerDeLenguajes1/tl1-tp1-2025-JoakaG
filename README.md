@@ -10,5 +10,5 @@ Debemos **crear el archivo .gitignore al iniciar nuestro repositorio** como buen
 No debería subirse a nuestro repositorio el .exe
 
 ### 3g_
-En el punto 2 y 3 obtenemos el mismo resultado ya que el puntero almacena la dirección de memoria de la variable. 
-En el punto 4 obtenemos la dirección de memoria del _puntero_ por lo que no es el mismo que la dirección de memoria de la variable. 
+En el punto 2 y 3 obtenemos el mismo resultado ya que el puntero almacena la dirección de memoria de la variable y como en el punto 2 imprimos lo almacenado en el puntero y en el punto 3 la dirección de memoria de la variable, estamos imprimiendo lo mismo.
+En el punto 4 obtenemos la dirección de memoria del _puntero_ por lo que no es el mismo que el contenido del puntero ni la dirección de memoria de la variable que apunta. 
